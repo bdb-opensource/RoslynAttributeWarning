@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynDemo1", "RoslynDemo1\RoslynDemo1\RoslynDemo1.csproj", "{9DC46BF6-4117-438D-ADFB-5B7035F3EE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynDemo1.Vsix", "RoslynDemo1\RoslynDemo1.Vsix\RoslynDemo1.Vsix.csproj", "{655C6870-BFBB-43BE-9358-33310674557B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC46BF6-4117-438D-ADFB-5B7035F3EE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC46BF6-4117-438D-ADFB-5B7035F3EE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC46BF6-4117-438D-ADFB-5B7035F3EE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC46BF6-4117-438D-ADFB-5B7035F3EE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655C6870-BFBB-43BE-9358-33310674557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655C6870-BFBB-43BE-9358-33310674557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655C6870-BFBB-43BE-9358-33310674557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655C6870-BFBB-43BE-9358-33310674557B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
